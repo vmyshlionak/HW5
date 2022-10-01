@@ -7,6 +7,7 @@ def prod(x, y):
 def remain(x, y):
     return x%y
 
+
 def minus(x, y):
     return x - y
 
